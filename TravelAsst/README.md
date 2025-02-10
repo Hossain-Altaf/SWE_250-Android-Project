@@ -1,6 +1,8 @@
 # travel_asst
 
-A new Flutter project.
+This is a travel assistant app that will help any travel to travel safely and smoothly.
+
+it made with flutter.
 
 ## Getting Started
 
